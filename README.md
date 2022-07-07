@@ -1,7 +1,7 @@
 
 # VAE Segmentation
 
-[Unsupervised Domain Adaptation through Shape Modeling for Medical Image Segmentation](https://openreview.net/forum?id=CwXCs6HObSw&referrer=%5Bthe%20profile%20of%20Yuan%20Yao%5D(%2Fprofile%3Fid%3D~Yuan_Yao11))
+[Unsupervised Domain Adaptation through Shape Modeling for Medical Image Segmentation](https://arxiv.org/abs/2207.02529)) \[MIDL2022]
 
 Yuan Yao, Fengze Liu, Zongwei Zhou, Yan Wang, Wei Shen, Alan Yuille, Yongyi Lu
 
